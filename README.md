@@ -1,4 +1,4 @@
-# Herison site
+# "Horiseon" site
 
 ## Description
 This professional site of the Herison company, providing services:
