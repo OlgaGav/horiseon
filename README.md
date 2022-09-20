@@ -26,10 +26,11 @@ Aside of the main page represented achivements of the company:
 - Lead geneation, 
 - Brand Awarness, 
 - Cost Management. 
-<br>Site made with love by Horiseon. :tada:
+<br>
+**Note**: site is not mobile compatible.
 ## Credits
 
-n/a
+Site made with love by Horiseon. :tada:
 
 ## License
 
