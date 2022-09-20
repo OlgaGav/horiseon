@@ -1,10 +1,12 @@
-# "Horiseon" site
+# "Horiseon" company site
 
 ## Description
-This professional site of the Herison. Company provides services:
-- Search Engine Optiomization
-- Online reputation management 
-- Social Media Marketing.
+This professional site of the Horiseon company. 
+
+Company provides services:
+- Search Engine Optimization
+- Online Reputation Management 
+- Social Media Marketing
 
 Site follows [**accessibility**](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) standards.
  
@@ -12,27 +14,27 @@ Site follows [**accessibility**](https://developer.mozilla.org/en-US/docs/Learn/
 n/a
 
 ## Usage
+This site was built using [GitHub Pages](https://pages.github.com/).
 
-This site was built using [GitHub Pages](https://pages.github.com/). <br>Deployed page: https://olgagav.github.io/horiseon/<br>
+Deployed page: https://olgagav.github.io/horiseon/
 
-<br>
-![Screenshot of Horiseion site. Show title Herison, naviagation menu to main sections: Search Engine Optimization, Online Reputation Management, Social Media Marketing. Under the Titel there is a big image represents four people discuss in the meeting room.](assets/images/Horiseon_screenshot.jpg)
-### Herison propose 3 services:
-- Search Engine Optiomization
-- Online reputation management 
-- Social Media Marketing. 
+![Screenshot of Horiseon site. It shows title Horiseon, naviagation menu to main sections: Search Engine Optimization, Online Reputation Management, Social Media Marketing. There is a big photo under the title and navigation menu which represents four people at the table in the meeting room. They looks at the documents in the process of discusssion. Bellow is displayed the main section with company services and benefits.](assets/images/Horiseon_screenshot.jpg)
+### Horiseon company propose next services:
+- Search Engine Optimization
+- Online Reputation Management 
+- Social Media Marketing 
 
-Use links in navigation bar for quick access the topic.
+Use links in navigation bar for quick access and redirect to the topic.
 
-Aside of the main page represented achivements of the company: 
-- Lead geneation, 
-- Brand Awarness, 
-- Cost Management. 
-<br>
-**Note**: site is not mobile compatible.
+Aside of the main page are represented benefits of the company: 
+- Lead Geneation 
+- Brand Awarness 
+- Cost Management 
+
+Note: site is not mobile compatible.
 ## Credits
 
-Site made with love by Horiseon. :tada:
+ :tada: Site made with ❤️️ by Horiseon. :tada:
 
 ## License
 
