@@ -1,24 +1,32 @@
-# Code Refactor Starter Code
+# Herison site
 
 ## Description
-The purpose of this taks is to refactor starter code to follow **accessibility** standards
-Guidance for HTML, CSS: https://developer.mozilla.org/en-US/docs/Learn/Accessibility
-<br>
-What is accessibility: https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility
-<br>
-More about semantic html tags: https://www.internetingishard.com/html-and-css/semantic-html/ 
+This professional site of the Herison company, providing services:
+- Search Engine Optiomization
+- Online reputation management 
+- Social Media Marketing.
+
+Site follows [**accessibility**](https://developer.mozilla.org/en-US/docs/Learn/Accessibility) standards.
  
 ## Installation
 n/a
 
 ## Usage
-Deployed page: https://olgagav.github.io/urban-octo-telegram/Develop/index.html
+Deployed page: https://olgagav.github.io/herison
 <br>
-Site follow accessibility standards:
- - check view source, or use extension to see accessibility tree
- - use tab to navigate accross site
- - use screenreader
+![Screenshot of Horiseion site. Show title Herison, naviagation menu to main sections: Search Engine Optimization, Online Reputation Management, Social Media Marketing. Under the Titel there is a big image represents four people discuss in the meeting room.](Develop\assets\images\Horiseon_screenshot.jpg)
+### Herison propose 3 services:
+- Search Engine Optiomization
+- Online reputation management 
+- Social Media Marketing. 
 
+Use links in navigation bar for quick access the topic.
+
+Aside of the main page represented achivements of the company: 
+- Lead geneation, 
+- Brand Awarness, 
+- Cost Management. 
+Site made with love by Horiseon.
 ## Credits
 
 n/a
