@@ -12,7 +12,9 @@ Site follows [**accessibility**](https://developer.mozilla.org/en-US/docs/Learn/
 n/a
 
 ## Usage
+
 This site was built using [GitHub Pages](https://pages.github.com/). <br>Deployed page: https://olgagav.github.io/horiseon/<br>
+
 <br>
 ![Screenshot of Horiseion site. Show title Herison, naviagation menu to main sections: Search Engine Optimization, Online Reputation Management, Social Media Marketing. Under the Titel there is a big image represents four people discuss in the meeting room.](assets/images/Horiseon_screenshot.jpg)
 ### Herison propose 3 services:
